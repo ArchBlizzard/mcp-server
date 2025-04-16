@@ -10,12 +10,12 @@ An MCP server connecting Claude AI with ElevenLabs for voice enabled conversatio
 ### Installation
 
 1. Install `uv` package manager:
-```bash
+```python
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
 2. Install the MCP server:
-```bash
+```python
 uv pip install elevenlabs-mcp
 ```
 
