@@ -48,4 +48,4 @@ uv pip install elevenlabs-mcp
 
 ## Demo
 
-[!Watch the demo](https://drive.google.com/file/d/1Vy-r1D8sR04FSJgS6KFespOZdVgMPrPK/view?usp=sharing)
+[Watch the demo](https://drive.google.com/file/d/1Vy-r1D8sR04FSJgS6KFespOZdVgMPrPK/view?usp=sharing)
