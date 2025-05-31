@@ -46,6 +46,6 @@ uv pip install elevenlabs-mcp
 4. The AI will now respond to your queries using the selected ElevenLabs voice, powered by Claude's intelligence
 5. You can have natural voice conversations, asking questions and receiving spoken responses
 
-## Demo
+## Demo and Next Steps
 
-[Watch the demo](https://drive.google.com/file/d/1Vy-r1D8sR04FSJgS6KFespOZdVgMPrPK/view?usp=sharing)
+[Watch the demo](https://drive.google.com/file/d/1Vy-r1D8sR04FSJgS6KFespOZdVgMPrPK/view?usp=sharing) and [Next Steps](https://docs.google.com/document/d/1G3kE3nTkLSZTPQX4MtM0bNsJcjOiNZxL4sqLKwe07HA/edit?usp=sharing)
